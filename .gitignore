@@ -1,0 +1,5 @@
+# Ignore model artifacts and data inside stock_api
+stock_api/rf_model.joblib
+stock_api/scaler.joblib
+stock_api/label_encoder.joblib
+stock_api/cleaned_stock_data.csv
