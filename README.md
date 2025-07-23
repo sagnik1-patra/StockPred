@@ -9,7 +9,7 @@ Welcome to **StockPred**, a futuristic stock prediction system that uses machine
 Follow these steps to set up and launch StockPred on your local machine:
 
 1. Clone the Repository
-bash
+**bash**
 git clone https://github.com/annansadr22/StockPred.git
 cd StockPred
 2. Train the ML Model
